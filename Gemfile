@@ -31,6 +31,9 @@ gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
 
+# Github API Gem
+gem 'octokit', '~> 3.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
